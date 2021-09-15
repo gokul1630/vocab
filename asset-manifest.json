@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vocab/static/css/main.c10c47bc.chunk.css",
+    "main.css": "/vocab/static/css/main.c2786c4c.chunk.css",
     "main.js": "/vocab/static/js/main.8d797c9d.chunk.js",
     "main.js.map": "/vocab/static/js/main.8d797c9d.chunk.js.map",
     "runtime-main.js": "/vocab/static/js/runtime-main.54a11592.js",
@@ -10,14 +10,14 @@
     "static/js/2.44cc5f2c.chunk.js.map": "/vocab/static/js/2.44cc5f2c.chunk.js.map",
     "index.html": "/vocab/index.html",
     "static/css/2.818011ed.chunk.css.map": "/vocab/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.c10c47bc.chunk.css.map": "/vocab/static/css/main.c10c47bc.chunk.css.map",
+    "static/css/main.c2786c4c.chunk.css.map": "/vocab/static/css/main.c2786c4c.chunk.css.map",
     "static/js/2.44cc5f2c.chunk.js.LICENSE.txt": "/vocab/static/js/2.44cc5f2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54a11592.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.44cc5f2c.chunk.js",
-    "static/css/main.c10c47bc.chunk.css",
+    "static/css/main.c2786c4c.chunk.css",
     "static/js/main.8d797c9d.chunk.js"
   ]
 }
