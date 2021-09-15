@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vocab/static/css/main.79f16b47.chunk.css",
-    "main.js": "/vocab/static/js/main.218a9c90.chunk.js",
-    "main.js.map": "/vocab/static/js/main.218a9c90.chunk.js.map",
+    "main.css": "/vocab/static/css/main.730ec78b.chunk.css",
+    "main.js": "/vocab/static/js/main.b27de2a1.chunk.js",
+    "main.js.map": "/vocab/static/js/main.b27de2a1.chunk.js.map",
     "runtime-main.js": "/vocab/static/js/runtime-main.54a11592.js",
     "runtime-main.js.map": "/vocab/static/js/runtime-main.54a11592.js.map",
     "static/css/2.818011ed.chunk.css": "/vocab/static/css/2.818011ed.chunk.css",
-    "static/js/2.44cc5f2c.chunk.js": "/vocab/static/js/2.44cc5f2c.chunk.js",
-    "static/js/2.44cc5f2c.chunk.js.map": "/vocab/static/js/2.44cc5f2c.chunk.js.map",
+    "static/js/2.e8f24cac.chunk.js": "/vocab/static/js/2.e8f24cac.chunk.js",
+    "static/js/2.e8f24cac.chunk.js.map": "/vocab/static/js/2.e8f24cac.chunk.js.map",
     "index.html": "/vocab/index.html",
     "static/css/2.818011ed.chunk.css.map": "/vocab/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.79f16b47.chunk.css.map": "/vocab/static/css/main.79f16b47.chunk.css.map",
-    "static/js/2.44cc5f2c.chunk.js.LICENSE.txt": "/vocab/static/js/2.44cc5f2c.chunk.js.LICENSE.txt"
+    "static/css/main.730ec78b.chunk.css.map": "/vocab/static/css/main.730ec78b.chunk.css.map",
+    "static/js/2.e8f24cac.chunk.js.LICENSE.txt": "/vocab/static/js/2.e8f24cac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.54a11592.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.44cc5f2c.chunk.js",
-    "static/css/main.79f16b47.chunk.css",
-    "static/js/main.218a9c90.chunk.js"
+    "static/js/2.e8f24cac.chunk.js",
+    "static/css/main.730ec78b.chunk.css",
+    "static/js/main.b27de2a1.chunk.js"
   ]
 }
