@@ -1,4 +1,3 @@
-import Card from '@material-ui/core/Card'
 import InputBase from '@material-ui/core/InputBase'
 import { alpha, makeStyles } from '@material-ui/core/styles'
 import SearchIcon from '@material-ui/icons/Search'
@@ -113,7 +112,7 @@ const Home = () => {
           />
         </div>
       </div>
-      <Card className='card-content' variant='outlined'>
+      <div className='card-content' variant='outlined'>
         <div className='box'>
           {state.filterData.map((item, idx) => {
             return (
@@ -140,7 +139,7 @@ const Home = () => {
             )
           })}
         </div>
-      </Card>
+      </div>
     </div>
   )
 }

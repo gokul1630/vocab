@@ -24,6 +24,9 @@
   width: 100%;
   display: flex;
   flex: 1;
+  color: black;
+  background-color: white;
+  border-radius: 20px 20px 0 0;
 }
 .topBar {
   width: 100%;
@@ -40,7 +43,8 @@
 }
 .card-list:hover {
   cursor: pointer;
-  background-color: rgb(245, 245, 245);
+  background-color: rgb(221, 221, 221);
+  border-radius: 20px;
 }
 .modal-body {
   overflow: auto;
