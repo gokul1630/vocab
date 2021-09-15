@@ -2,7 +2,8 @@ import Card from '@material-ui/core/Card'
 import InputBase from '@material-ui/core/InputBase'
 import { alpha, makeStyles } from '@material-ui/core/styles'
 import SearchIcon from '@material-ui/icons/Search'
-import React, { useEffect, useRef } from 'react'
+import Fuse from 'fuse.js'
+import React, { useEffect } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import {
   setFilterData,
@@ -14,7 +15,6 @@ import {
 import client from '../utils/client'
 import { GET } from '../utils/constants'
 import PopUpModal from './PopUpModal'
-import Fuse from 'fuse.js'
 const useStyles = makeStyles((theme) => ({
   search: {
     position: 'relative',

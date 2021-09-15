@@ -3,7 +3,7 @@ import { Modal } from 'react-bootstrap'
 import { useDispatch, useSelector } from 'react-redux'
 import { setModalData, setShowModal, stateSelector } from '../redux/slicers'
 
-function PopUpModal(props) {
+function PopUpModal() {
   const dispatch = useDispatch()
   const state = useSelector(stateSelector)
   return (
@@ -36,34 +36,6 @@ function PopUpModal(props) {
               )
             )
           )}
-          {/* <ul>
-						<li>
-							{
-								state.modalData.results[0].lexicalEntries[0].entries[0]
-									.senses[0].examples[0].text
-							}
-						</li>
-					</ul>
-					<h5>
-						{
-							state.modalData.results[0].lexicalEntries[0].entries[0].senses[0]
-								.examples[0].text
-						}
-					</h5>
-					<ul>
-						<li>
-							{
-								state.modalData.results[0].lexicalEntries[0].entries[0]
-									.senses[0].shortDefinitions
-							}
-						</li>
-						<li>
-							{
-								state.modalData.results[0].lexicalEntries[0].entries[0]
-									.senses[1].definitions
-							}
-						</li>
-					</ul> */}
         </Modal.Body>
       )}
     </Modal>
