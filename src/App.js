@@ -6,14 +6,14 @@ import Home from './Components/Home'
 import store from './redux/store'
 
 function App(props) {
-	return (
-		<Provider store={store}>
-			<div className='container'>
-				<Home />
-				<FabButton />
-			</div>
-		</Provider>
-	)
+  return (
+    <Provider store={store}>
+      <div className='container'>
+        <Home />
+        <FabButton />
+      </div>
+    </Provider>
+  )
 }
 
 export default App
